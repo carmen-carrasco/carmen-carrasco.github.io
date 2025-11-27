@@ -12,4 +12,4 @@ The objective of this post is to show the results of the name entity recognigtio
 
 ## Peripleo
 
-<iframe src="https://carmen-carrasco.github.io/Peripleo/mode=heatmap+facet=type" title="Peripleo" width="100%" height="800px" allowfullscreen="true"></iframe>
+<iframe src="https://carmen-carrasco.github.io/Peripleo/" title="Peripleo" width="100%" height="800px" allowfullscreen="true"></iframe>
