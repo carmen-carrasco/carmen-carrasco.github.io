@@ -42,6 +42,24 @@
       description:
         - Specialization in Journalism
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Post-doctoral researcher
+      institution: Université Libre de Bruxelles
+      year: 2025
+      description:
+        - Development of an HTR model specialised in the handwriting of the Belgian historian Henri Pirenne
+        - Evaluation of models
+        - Applying NLP and text mining tools to resulting documents
+        - Writing scientific articles related to the project
+    - title: Webmaster
+      institution: Research Project: Literary and Esthetic Management of Surplus / Waste / Remains” (University of Geneva and University of Zurich)
+      year: 2019
+    - title: Webmaster
+      institution: Société Suisse des Américanistes
+      year: 2019
+
 - title: Open Source Projects
   type: time_table
   contents:
